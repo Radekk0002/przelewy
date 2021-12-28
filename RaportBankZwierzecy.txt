@@ -1,0 +1,3 @@
+Liczba udanych transakcji: 8
+Liczba nieudanych transakcji: 0
+Łączna przelana kwota 21105.0

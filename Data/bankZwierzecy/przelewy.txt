@@ -1,0 +1,8 @@
+KLASYCZNY      WPLATA    Jan Nowak 50649885635 100 Anna                Nowak Kowalska      Zwrot pożyczki
+TELEFONICZNY   WPLATA    162-189-690 6184
+KLASYCZNY      WPLATA    Jan4 Nowak4 53320304256 1000 Anna2               Nowak2 Kowalska2    Zwrot pożyczki2
+TELEFONICZNY   WPLATA    363-344-523 236
+KLASYCZNY      WPLATA    Jan2 Nowak2 50649885635 5467 Anna3               Nowak3 Kowalska3    Zwrot pożyczki3
+TELEFONICZNY   WPLATA    433-154-522 3256
+KLASYCZNY      WPLATA    Jan7 Nowak7 14371885548 2736 Anna4               Nowak4 Kowalska4    Zwrot pożyczki4
+TELEFONICZNY   WPLATA    728-043-634 2126
